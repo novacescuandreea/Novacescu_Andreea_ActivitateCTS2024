@@ -11,7 +11,8 @@ public class Spital {
         return numeSpital;
     }
 
-    public void setNumeSpital(String numeSpitalt) {
-        this.numeSpital = numeSpitalt;
+    public void setNumeSpital(String numeSpital) {
+        this.numeSpital = numeSpital;
     }
+
 }
