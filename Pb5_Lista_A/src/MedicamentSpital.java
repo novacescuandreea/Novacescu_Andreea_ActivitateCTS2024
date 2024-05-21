@@ -1,5 +1,5 @@
 public class MedicamentSpital implements IMedicament {
-        public void achizitioneazaMedicament() {
+    public void achizitioneazaMedicament() {
             System.out.println("Cumpara medicament din cadrul spitalului");
         }
 
