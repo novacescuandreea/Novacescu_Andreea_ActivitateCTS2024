@@ -1,6 +1,6 @@
 public class Pacient {
     private String nume;
-    private Stare stare;
+    private State stare;
 
     public Pacient(String nume) {
         this.nume = nume;
@@ -19,7 +19,7 @@ public class Pacient {
         stare.doAction(this);
     }
 
-    public void setStare(Stare stare) {
+    public void setStare(State stare) {
         this.stare = stare;
     }
 }

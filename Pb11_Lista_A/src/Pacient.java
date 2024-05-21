@@ -1,8 +1,8 @@
 public class Pacient {
     private String nume;
-    private Plata plata;
+    private Strategy plata;
 
-    public Pacient(String nume, Plata plata) {
+    public Pacient(String nume, Strategy plata) {
         this.nume = nume;
         this.plata = plata;
     }
@@ -15,11 +15,11 @@ public class Pacient {
         this.nume = nume;
     }
 
-    public Plata getPlata() {
+    public Strategy getPlata() {
         return plata;
     }
 
-    public void setPlata(Plata plata) {
+    public void setPlata(Strategy plata) {
         this.plata = plata;
     }
 }

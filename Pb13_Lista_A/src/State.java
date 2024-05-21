@@ -1,3 +1,3 @@
-public interface Stare {
+public interface State {
     void doAction(Pacient pacient);
 }

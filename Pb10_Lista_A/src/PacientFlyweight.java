@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class PacientFactory  implements IFactory{
+public class PacientFlyweight implements IFlyweight {
     private final HashMap<String, Pacient> pacienti = new HashMap<>();
 
     @Override

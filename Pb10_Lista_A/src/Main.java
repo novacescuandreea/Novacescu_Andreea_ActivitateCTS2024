@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        IFactory factory = new PacientFactory();
+        IFlyweight factory = new PacientFlyweight();
 
         Pacient pacient1 = factory.getPacient("Andreea N.", 726379228, "Str. Alunului nr. 1");
         Salon salon1 = new Salon(15, 1, 5, pacient1);
