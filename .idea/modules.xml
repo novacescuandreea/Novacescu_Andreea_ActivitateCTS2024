@@ -3,28 +3,77 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Novacescu_Andreea_ActivitateCTS2024.iml" filepath="$PROJECT_DIR$/.idea/Novacescu_Andreea_ActivitateCTS2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb/Pb.iml" filepath="$PROJECT_DIR$/Pb/Pb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb10_ListaB/Pb10_ListaB.iml" filepath="$PROJECT_DIR$/Pb10_ListaB/Pb10_ListaB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pb10_Lista_A/Pb10_Lista_A.iml" filepath="$PROJECT_DIR$/Pb10_Lista_A/Pb10_Lista_A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb11_ListaB/Pb11_ListaB.iml" filepath="$PROJECT_DIR$/Pb11_ListaB/Pb11_ListaB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pb11_Lista_A/Pb11_Lista_A.iml" filepath="$PROJECT_DIR$/Pb11_Lista_A/Pb11_Lista_A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb12_ListaB/Pb12_ListaB.iml" filepath="$PROJECT_DIR$/Pb12_ListaB/Pb12_ListaB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pb12_Lista_A/Pb12_Lista_A.iml" filepath="$PROJECT_DIR$/Pb12_Lista_A/Pb12_Lista_A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb13_ListaB/Pb13_ListaB.iml" filepath="$PROJECT_DIR$/Pb13_ListaB/Pb13_ListaB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb13_ListaF/Pb13_ListaF.iml" filepath="$PROJECT_DIR$/Pb13_ListaF/Pb13_ListaF.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pb13_Lista_A/Pb13_Lista_A.iml" filepath="$PROJECT_DIR$/Pb13_Lista_A/Pb13_Lista_A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb14_ListaB/Pb14_ListaB.iml" filepath="$PROJECT_DIR$/Pb14_ListaB/Pb14_ListaB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb14_ListaC/Pb14_ListaC.iml" filepath="$PROJECT_DIR$/Pb14_ListaC/Pb14_ListaC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb14_ListaD/Pb14_ListaD.iml" filepath="$PROJECT_DIR$/Pb14_ListaD/Pb14_ListaD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb14_ListaE/Pb14_ListaE.iml" filepath="$PROJECT_DIR$/Pb14_ListaE/Pb14_ListaE.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pb14_Lista_A/Pb14_Lista_A.iml" filepath="$PROJECT_DIR$/Pb14_Lista_A/Pb14_Lista_A.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Pb15_Lista_A/Pb15_Lista_A.iml" filepath="$PROJECT_DIR$/Pb15_Lista_A/Pb15_Lista_A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb15_ListaA/Pb15_ListaA.iml" filepath="$PROJECT_DIR$/Pb15_ListaA/Pb15_ListaA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb15_ListaB/Pb15_ListaB.iml" filepath="$PROJECT_DIR$/Pb15_ListaB/Pb15_ListaB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb15_ListaE/Pb15_ListaE.iml" filepath="$PROJECT_DIR$/Pb15_ListaE/Pb15_ListaE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb16_ListaB/Pb16_ListaB.iml" filepath="$PROJECT_DIR$/Pb16_ListaB/Pb16_ListaB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb1_ListaB/Pb1_ListaB.iml" filepath="$PROJECT_DIR$/Pb1_ListaB/Pb1_ListaB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pb1_Lista_A/Pb1_Lista_A.iml" filepath="$PROJECT_DIR$/Pb1_Lista_A/Pb1_Lista_A.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pb2_Lista_A/Pb1_Lista_C.iml" filepath="$PROJECT_DIR$/Pb2_Lista_A/Pb1_Lista_C.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb1_Lista_D/Pb1_Lista_D.iml" filepath="$PROJECT_DIR$/Pb1_Lista_D/Pb1_Lista_D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb1_Lista_E/Pb1_Lista_E.iml" filepath="$PROJECT_DIR$/Pb1_Lista_E/Pb1_Lista_E.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb1_Lista_F/Pb1_Lista_F.iml" filepath="$PROJECT_DIR$/Pb1_Lista_F/Pb1_Lista_F.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb2_ListaB/Pb2_ListaB.iml" filepath="$PROJECT_DIR$/Pb2_ListaB/Pb2_ListaB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb2_Lista_D/Pb2_Lista_D.iml" filepath="$PROJECT_DIR$/Pb2_Lista_D/Pb2_Lista_D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb3_ListaB/Pb3_ListaB.iml" filepath="$PROJECT_DIR$/Pb3_ListaB/Pb3_ListaB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pb3_Lista_A/Pb3_Lista_A.iml" filepath="$PROJECT_DIR$/Pb3_Lista_A/Pb3_Lista_A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb3_Lista_D/Pb3_Lista_D.iml" filepath="$PROJECT_DIR$/Pb3_Lista_D/Pb3_Lista_D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb4_ListaB/Pb4_ListaB.iml" filepath="$PROJECT_DIR$/Pb4_ListaB/Pb4_ListaB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pb4_Lista_A/Pb4_Lista_A.iml" filepath="$PROJECT_DIR$/Pb4_Lista_A/Pb4_Lista_A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb4_Lista_D/Pb4_Lista_D.iml" filepath="$PROJECT_DIR$/Pb4_Lista_D/Pb4_Lista_D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb5_ListaB/Pb5_ListaB.iml" filepath="$PROJECT_DIR$/Pb5_ListaB/Pb5_ListaB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pb5_Lista_A/Pb5_Lista_A.iml" filepath="$PROJECT_DIR$/Pb5_Lista_A/Pb5_Lista_A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb5_Lista_D/Pb5_Lista_D.iml" filepath="$PROJECT_DIR$/Pb5_Lista_D/Pb5_Lista_D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb6_ListaB/Pb6_ListaB.iml" filepath="$PROJECT_DIR$/Pb6_ListaB/Pb6_ListaB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pb6_Lista_A/Pb6_Lista_A.iml" filepath="$PROJECT_DIR$/Pb6_Lista_A/Pb6_Lista_A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb6_Lista_D/Pb6_Lista_D.iml" filepath="$PROJECT_DIR$/Pb6_Lista_D/Pb6_Lista_D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb7_ListaB/Pb7_ListaB.iml" filepath="$PROJECT_DIR$/Pb7_ListaB/Pb7_ListaB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pb7_Lista_A/Pb7_Lista_A.iml" filepath="$PROJECT_DIR$/Pb7_Lista_A/Pb7_Lista_A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb7_Lista_D/Pb7_Lista_D.iml" filepath="$PROJECT_DIR$/Pb7_Lista_D/Pb7_Lista_D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb8_ListaB/Pb8_ListaB.iml" filepath="$PROJECT_DIR$/Pb8_ListaB/Pb8_ListaB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pb8_Lista_A/Pb8_Lista_A.iml" filepath="$PROJECT_DIR$/Pb8_Lista_A/Pb8_Lista_A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb9_ListaB/Pb9_ListaB.iml" filepath="$PROJECT_DIR$/Pb9_ListaB/Pb9_ListaB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pb9_Lista_A/Pb9_Lista_A.iml" filepath="$PROJECT_DIR$/Pb9_Lista_A/Pb9_Lista_A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exersare_Chain_1/exersare_Chain_1.iml" filepath="$PROJECT_DIR$/exersare_Chain_1/exersare_Chain_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exersare_Chain_2/exersare_Chain_2.iml" filepath="$PROJECT_DIR$/exersare_Chain_2/exersare_Chain_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exersare_composite_A_8/exersare_composite_A_8.iml" filepath="$PROJECT_DIR$/exersare_composite_A_8/exersare_composite_A_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exersare_composite_B_8/exersare_composite_B_8.iml" filepath="$PROJECT_DIR$/exersare_composite_B_8/exersare_composite_B_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exersare_dseara_chain/exersare_dseara_chain.iml" filepath="$PROJECT_DIR$/exersare_dseara_chain/exersare_dseara_chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exersare_dseara_template_A_14/exersare_dseara_template_A_14.iml" filepath="$PROJECT_DIR$/exersare_dseara_template_A_14/exersare_dseara_template_A_14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exersare_test_S10/exersare_test_S10.iml" filepath="$PROJECT_DIR$/exersare_test_S10/exersare_test_S10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exersare_test_S11/exersare_test_S11.iml" filepath="$PROJECT_DIR$/exersare_test_S11/exersare_test_S11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exersare_test_S7/exersare_test_S7.iml" filepath="$PROJECT_DIR$/exersare_test_S7/exersare_test_S7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exersare_test_S9/exersare_test_S9.iml" filepath="$PROJECT_DIR$/exersare_test_S9/exersare_test_S9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/profa chain/profa chai.iml" filepath="$PROJECT_DIR$/profa chain/profa chai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/out/production/profa memento/profa chain/profa chain.iml" filepath="$PROJECT_DIR$/out/production/profa memento/profa chain/profa chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/profa composite/profa composite.iml" filepath="$PROJECT_DIR$/profa composite/profa composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/profa composite2/profa composite2.iml" filepath="$PROJECT_DIR$/profa composite2/profa composite2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/profa memento/profa memento.iml" filepath="$PROJECT_DIR$/profa memento/profa memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_Composite/test_Composite.iml" filepath="$PROJECT_DIR$/test_Composite/test_Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_chain/test_chain.iml" filepath="$PROJECT_DIR$/test_chain/test_chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_memento/test_memento.iml" filepath="$PROJECT_DIR$/test_memento/test_memento.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pb1_Lista_C/untitled/untitled.iml" filepath="$PROJECT_DIR$/Pb1_Lista_C/untitled/untitled.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pb2_Lista_C/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/Pb2_Lista_C/untitled1/untitled1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pb11_Lista_C/untitled10/untitled10.iml" filepath="$PROJECT_DIR$/Pb11_Lista_C/untitled10/untitled10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pb12_Lista_C/untitled11/untitled11.iml" filepath="$PROJECT_DIR$/Pb12_Lista_C/untitled11/untitled11.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pb13_Lista_C/untitled12/untitled12.iml" filepath="$PROJECT_DIR$/Pb13_Lista_C/untitled12/untitled12.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pb14_Lista_C/untitled13/untitled13.iml" filepath="$PROJECT_DIR$/Pb14_Lista_C/untitled13/untitled13.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Pb15_Lista_C/untitled14/untitled14.iml" filepath="$PROJECT_DIR$/Pb15_Lista_C/untitled14/untitled14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pb15_ListaC/untitled14/untitled14.iml" filepath="$PROJECT_DIR$/Pb15_ListaC/untitled14/untitled14.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pb3_Lista_C/untitled2/untitled2.iml" filepath="$PROJECT_DIR$/Pb3_Lista_C/untitled2/untitled2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pb4_Lista_C/untitled3/untitled3.iml" filepath="$PROJECT_DIR$/Pb4_Lista_C/untitled3/untitled3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pb5_Lista_C/untitled4/untitled4.iml" filepath="$PROJECT_DIR$/Pb5_Lista_C/untitled4/untitled4.iml" />

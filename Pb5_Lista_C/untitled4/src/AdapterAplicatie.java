@@ -1,4 +1,4 @@
-public class AdapterAplicatie {
+public class AdapterAplicatie implements IAplicatie{
     private AplicatieNoua aplicatieNoua;
     private String idMedicamentCurent;
 
@@ -13,5 +13,10 @@ public class AdapterAplicatie {
 
     public boolean verificareDisponibilitate(int numarDorite) {
         return aplicatieNoua.verificaStocPentruMedicament(idMedicamentCurent, numarDorite);
+    }
+
+    @Override
+    public void verificaStocPentruMedicament() {
+        aplicatieNoua.verificaStocPentruMedicament(idMedicamentCurent,2);
     }
 }
